@@ -1,0 +1,9 @@
+name: procast
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy=1.5.2
+  - streamlit
+  - libgcc
