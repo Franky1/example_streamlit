@@ -1,6 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 from scipy import stats
+import numpy as np
 
 st.header('Example streamlit')
 
