@@ -6,5 +6,5 @@ import numpy as np
 st.header('Example streamlit')
 
 fig = plt.figure()
-plt.scatter(np.arange(0,10,1),np.arange(10,0,1))
+plt.scatter(np.arange(0,10,1),np.arange(0,10,1))
 plt.show()
