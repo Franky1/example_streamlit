@@ -7,4 +7,3 @@ dependencies:
   - scipy=1.5.2
   - streamlit
   - libgcc
-  - gcc=12.1.0
