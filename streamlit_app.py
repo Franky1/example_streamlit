@@ -1,7 +1,8 @@
-import streamlit as st
+import cartopy
 import matplotlib.pyplot as plt
-from scipy import stats
 import numpy as np
+import streamlit as st
+from scipy import stats
 
 st.header('Example streamlit')
 
